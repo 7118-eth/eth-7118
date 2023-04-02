@@ -5,7 +5,7 @@ canvas.height = window.innerHeight;
 document.body.appendChild(canvas);
 
 const ctx = canvas.getContext('2d');
-const imageCount = 34;
+const imageCount = 25;
 const fontSize = 20;
 const columns = canvas.width / fontSize;
 
